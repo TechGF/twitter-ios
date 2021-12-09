@@ -39,4 +39,4 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-http://g.recordit.co/Mt6SSVwQBT.gif
+<img src='http://g.recordit.co/Mt6SSVwQBT.gif'><br>
