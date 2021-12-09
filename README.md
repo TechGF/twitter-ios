@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-http://g.recordit.co/nY5jh8GrkO.gif
+<img src='http://g.recordit.co/nY5jh8GrkO.gif'><br>
 
 # Twitter - Part II
 
